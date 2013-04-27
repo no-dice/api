@@ -1,4 +1,9 @@
-api
-===
+No Dice Python Client API
+=========================
+No Dice Client-side API for Python
 
-No Dice Public API
+Required Python Packages
+------------------------
+
+    requests
+    requests-oauth2
